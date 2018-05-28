@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100" width="324" version="1.1" viewBox="0 0 324 100">
+ <rect style="fill:#afeeee" height="96" width="320" y="1" x="1"/>
+ <image height="100" width="324" xlink:href="mortuary-base.svg" y="0" x="68"/>
+ <image height="100" width="324" xlink:href="marc.svg" y="0" x="0"/>
+ <rect style="fill:#afeeee" height="95.5" width="114" y="1.5" x="1"/>
+ <path style="fill:#2f4f4f" d="m7 8v59h103v-59h-96zm7 5h87v50h-87z"/>
+ <path style="fill:#2f4f4f" d="m23 20v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m47 20v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m71 20v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m85 23v1 5 1 5 7 5 7 5 1h9v-1-35-1h-1-7-1zm1 1h7v5h-7v-5zm0 6h7v5h-7v-5zm0 12h7v5h-7v-5zm0 12h7v5h-7v-5z"/>
+ <path style="fill:#2f4f4f" d="m23 35v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m47 35v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m71 35v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m23 50v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m47 50v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <path style="fill:#2f4f4f" d="m71 50v1h4v-1h-4zm4 1v1h1v1h1v-2h-2zm2 2v1h1v-1h-1zm0 1h-1v1h-1v1h2v-1-1zm-2 2h-4v1h4v-1zm-4 0v-1h-1v-3h1v-1h-1-1v1 3 1h2z"/>
+ <rect style="fill:#8b5742" height="5" width="7" y="36" x="86"/>
+ <path style="fill:#ee2c2c" d="m10 9v1h1v1h2v1h89v51h1v1h3v1h2v1h1v-57h-98z"/>
+ <rect style="fill:#ee2c2c" height="5" width="7" y="48" x="86"/>
+
+</svg>
