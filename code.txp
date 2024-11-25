@@ -5311,7 +5311,7 @@ _ _
    CLEAR	fMessPugesTrapa
  }
  ZERO		fDamuntCoffin
- WRITELN	"Ests a una sala blava al costat d'una de les lloses de ceràmica suau que tanquen l'accés a les càpsules d'hibernació. Fileres i fileres d'elles s'extenen per les parets, guardant al seu darrere els colons adormits artificialment. Hi ha uns llums que parpellegen al costat d'una trapa que hi ha al sostre."
+ WRITELN	"Ets a una sala blava al costat d'una de les lloses de ceràmica suau que tanquen l'accés a les càpsules d'hibernació. Fileres i fileres d'elles s'extenen per les parets, guardant al seu darrere els colons adormits artificialment. Hi ha uns llums que parpellegen al costat d'una trapa que hi ha al sostre."
 
 
 _ _
